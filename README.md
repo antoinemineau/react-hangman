@@ -1,3 +1,10 @@
+## Project
+
+A simple hangman app I made to learn React during OpenClassRoom course.
+
+https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/6734471-entrainez-vous-en-creant-un-jeu-du-pendu
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
