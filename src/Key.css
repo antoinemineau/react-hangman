@@ -1,0 +1,20 @@
+.key {
+    background-color: grey;
+    font-size: 24px;
+    margin: 0 10px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
+
+.default {
+    color: black;
+}

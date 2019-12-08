@@ -1,0 +1,9 @@
+.word_letter {
+    display:inline-block;
+    margin: 0 20px;
+    font-size: 30px;
+}
+
+#word_container {
+    margin-top: 50px;
+}
